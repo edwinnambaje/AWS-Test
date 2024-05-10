@@ -1,0 +1,5 @@
+{
+    "circleci.persistedProjectSelection": [],
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d32946e6-c171-476a-bb82-d434e644ceeb/resourceGroups/edwinnode2/providers/Microsoft.Web/sites/edwinnode",
+    "appService.deploySubpath": "."
+}
